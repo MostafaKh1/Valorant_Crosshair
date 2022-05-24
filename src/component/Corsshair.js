@@ -17,7 +17,7 @@
                         
                                 
                                     <div className="box">
-                                        <img src={require(`../imgaes/${props.img}`)} />
+                                        <img src={require(`../imgaes/${props.img}`)} alt={props.name} />
                                         <h5>{props.name}</h5>
                                         <CopyToClipboard text={props.code}
                                         onCopy={() => setCopied(true)}    

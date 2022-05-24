@@ -222,7 +222,6 @@ header .container .info  li a::after {
       width: 155px;
       text-align: center;
       align-items: center;
-
   }
 
   .main .container .box h5 {
@@ -243,3 +242,24 @@ header .container .info  li a::after {
 
 
 
+  @media (max-width: 767px) {
+
+    header .container .logo {
+      width: 60%;
+    }
+    header .container .logo img {
+      width: 40px;
+    }
+    header .container .logo {
+      font-size: 14px;
+    }
+    header .container .info ul {
+      display: none;
+    }
+
+    .main .container .boxs {
+      justify-content: center;
+    }
+
+    
+  }
