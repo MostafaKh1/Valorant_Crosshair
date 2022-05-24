@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Valorant_Crosshair/static/css/main.bb667396.css",
+    "main.js": "/Valorant_Crosshair/static/js/main.efcf4e0f.js",
+    "static/media/Logo.png": "/Valorant_Crosshair/static/media/Logo.42d33e24430950cc40c5.png",
+    "index.html": "/Valorant_Crosshair/index.html",
+    "main.bb667396.css.map": "/Valorant_Crosshair/static/css/main.bb667396.css.map",
+    "main.efcf4e0f.js.map": "/Valorant_Crosshair/static/js/main.efcf4e0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb667396.css",
+    "static/js/main.efcf4e0f.js"
+  ]
+}
